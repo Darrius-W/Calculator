@@ -1,2 +1,2 @@
 # Calculator
-Simple Numerical Expression Calculator.
+Simple Numerical Expression Calculator
